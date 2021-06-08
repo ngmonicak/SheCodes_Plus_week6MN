@@ -1,0 +1,59 @@
+h1 {
+    color: #5050d1;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    padding: 0;
+  }
+  
+  h4 {
+    color: #5050d1;
+    font-family: "Ubuntu", sans-serif;
+  }
+  
+  li {
+    line-height: 2em;
+    font-size: 16px;
+    height: 19px;
+    line-height: 1px;
+    list-style: none;
+  }
+  
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .app {
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 25px;
+    margin: 20px;
+    max-width: 650px;
+  }
+  
+  .card-img-top {
+    width: 150px;
+  }
+  
+  .city {
+    font-family: "Roboto Mono", sans-serif;
+  }
+  
+  .form-control {
+    margin: 30;
+    text-align: center;
+  }
+  
+  .temperature {
+    font-size: 30px;
+  }
+
+  .units {
+    font-size: 20px;
+    position: relative;
+    top: -40px;
+    right: -100px;
+  }
+  
