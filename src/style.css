@@ -50,6 +50,9 @@ h1 {
     font-size: 30px;
   }
 
+  .weather-logo {
+    width: 90%;
+  }
   .units {
     font-size: 20px;
     position: relative;
